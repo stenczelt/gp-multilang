@@ -11,3 +11,14 @@ Later on, I am planning to write the same code with multiple languages:
 - [ ] C++
 - [ ] OCaml
 Which should serve as a way of learning the quirks of these languages and their parallel capabilities. 
+
+## Roadmap for GP
+- GP 1D - follow documentaton/example, maybe in autograd actually
+- GP 2D dot-product
+- GP any kernel between vectors
+- GP ND -> scalar observation
+- GP with sum-observations
+- GP with gradient observations
+- combine all of these
+- sparse GP
+
